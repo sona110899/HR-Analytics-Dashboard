@@ -1,4 +1,5 @@
 # HR Attrition & Workforce Analytics Dashboard 📊
+![Complete Dashboard](HR%20Attrition%20&%20Workforce%20Analytics%20Dashboard.png)
 
 ## Overview
 The **HR Attrition & Workforce Analytics Dashboard** is a Power BI project designed to analyze and visualize employee attrition patterns. The dashboard enables organizations to:  
