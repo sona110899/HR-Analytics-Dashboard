@@ -130,7 +130,7 @@ The dashboard is built using the **IBM HR Analytics Employee Attrition & Perform
 ## Author
 **Name:** Sona  
 **Role:** Data Analyst  
-**Tools Used:** Power BI, SQL  
+**Tools Used:** Power BI, EXCEL 
 
 ---
 
